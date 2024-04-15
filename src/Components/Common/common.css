@@ -1,0 +1,14 @@
+.music-card {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    background-color: #f9f9f9;
+    /* Customize other styles as needed */
+  }
+  
+  .music-card img {
+    max-width: 100%;
+    height: auto;
+  }
+  

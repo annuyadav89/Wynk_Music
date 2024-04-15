@@ -1,0 +1,25 @@
+.main-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.section-1{
+   display:flex;
+    width: 80%;
+    
+    
+    justify-content: center;
+    align-items: center;
+    background-color:#0C0F12;
+    flex-wrap: wrap;
+    border: 1px solid gray;
+    border-radius: 1rem;
+    text-align: left;
+    color: #BEBEBF;
+    padding: 2rem;
+    margin-top: 1rem;
+    font-size: 0.9rem;
+
+}
